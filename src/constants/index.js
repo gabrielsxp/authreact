@@ -7,7 +7,11 @@ const routes = {
 
 const endpoints = {
   signIn: '/signin',
-  signUp: '/signup'
+  signUp: '/signup',
+  deck: '/deck',
+  decks: '/deck',
+  card: '/card',
+  cards: '/cards'
 }
 
 export {
